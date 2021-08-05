@@ -11,3 +11,5 @@
 > Made changes for git pull demo
 
 > Made more changes for the git pull demo
+
+> Made a change to remove the branch
